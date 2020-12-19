@@ -245,8 +245,6 @@ def loadApplication(fileName):
                 byte = file.read(1)
                 i+=1
         print('Application loaded successfully!')
-        print("Memory : ")
-        print(chip8.memory)
     except Exception as e:
         print(e)
 
