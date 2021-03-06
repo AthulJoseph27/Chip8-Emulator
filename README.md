@@ -1,11 +1,11 @@
 # Chip8 Emulator
 
-Change the file name in line 274 to load the game of your choic.
+Change the file name in the line 274 to load the game of your choic (in file named Chip_8.py).
 
 ## Specifications
 
 - The Chip 8 has 35 opcode which are two bytes long.
-  [Check out all 35 opcode here](https://en.wikipedia.org/wiki/CHIP-8)
+  [Check out all the 35 opcode here](https://en.wikipedia.org/wiki/CHIP-8)
 
 - The Chip 8 has 4K memory in total.
 
